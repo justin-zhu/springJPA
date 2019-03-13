@@ -16,7 +16,7 @@
 		</property>
 		<property name="driverClassName" value="com.microsoft.sqlserver.jdbc.SQLServerDriver"></property>
 		<property name="username" value="sa"></property>
-		<property name="password" value="Zhu6819781."></property>
+		<property name="password" value="**********"></property>
 	</bean>
 	<bean id="entityManagerFactory"
 		class="org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean">
